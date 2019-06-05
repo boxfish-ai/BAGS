@@ -15,16 +15,12 @@ They are named in this way: the original grayscale image is named as "***index**
 They have the same formatted ***index*** in each pair.
 
 ### Examples
-One example pair of dataset A. The original image is named as 'out_contour/000000.png'.
-![A_ori](images/out_contour/000000.png "A_ori")
-And the tagged image is named as 'out_contour/000000_outcontour.png'.
-![A_tagged](images/out_contour/000000_outcontour.png "A_tagged")
+One example pair of dataset A. The original image is named as '000000.png'.And the tagged image is named as '000000_outcontour.png'.
+![outcontour](images/out_contour/show.png "outcontour")
 
 
-One example pair of dataset B. the original image is named as 'lines/000001.png'.
-![B_ori](images/lines/000001.png "B_ori")
-And the tagged image is named as 'lines/000001_lines.png'.
-![B_tagged](images/lines/000001_lines.png "B_tagged")
+One example pair of dataset B. The original image is named as '000001.png', and the tagged image is named as '000001_lines.png'.
+![lines](images/lines/show.png "lines")
 
 
 ### How to Download the Datasets
