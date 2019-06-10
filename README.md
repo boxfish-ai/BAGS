@@ -15,7 +15,7 @@ Dataset B is used for answer area underlines(AAU) segmentation, which consists o
 
 Each image is in grayscale and has a corresponding mask. 
 
-In dataset A， we add "_outcontour" in the corresponding mask name.
+In dataset A，we add "_outcontour" in the corresponding mask name.
 ![outcontour](images/out_contour/show.png "outcontour")
 
 
