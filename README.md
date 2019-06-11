@@ -6,7 +6,7 @@ Boxfish Automatic Grading System ("BAGS: An automatic homework grading system us
 ## Framework
 ![framework](./images/framework.png?raw=true "framework")
 ## Datasets
-DatasetA and DatasetB are publicy available. 
+DatasetA and DatasetB are publicly available. 
 
 ### Introduction to the Datasets
 Dataset A is used for rectangular borderlines segmentation, which consists of 8500 images.
