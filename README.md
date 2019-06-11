@@ -1,5 +1,7 @@
 # BAGS
-Boxfish Automatic Grading System("BAGS: An automatic homework grading system using the pictures taken by smart phones")
+Boxfish Automatic Grading System ("BAGS: An automatic homework grading system using the pictures taken by smart phones", ICDAR 2019)
+
+### [Paper on arXiv](https://arxiv.org/abs/1906.03767)
 
 ## Framework
 ![framework](./images/framework.png?raw=true "framework")
@@ -31,4 +33,15 @@ sh dataset/download_dataset.sh
 or
 ```sh
 python dataset/download_dataset.py
+```
+
+## Citation 
+If you use the datasets in your research, please cite:
+```bibtex
+@article{li2019BAGS,
+  title={BAGS: An automatic homework grading system using the pictures taken by smart phones},
+  author={Xiaoshuo Li and Tiezhu Yue and Xuanping Huang and Zhe Yang and Gang Xu},
+  journal={arXiv preprint arXiv:1906.03767},
+  year={2019}
+}
 ```
